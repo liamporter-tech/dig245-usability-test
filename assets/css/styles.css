@@ -30,6 +30,8 @@ h2,h3{
     color:antiquewhite;
 }
 .btn-primary{
-    background-color: aquamarine;
-    color:black;
+    background-color: #09282D;
+    color:antiquewhite;
+    border-color: antiquewhite;
+    border-width: 2px;
 }
