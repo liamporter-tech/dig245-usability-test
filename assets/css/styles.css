@@ -4,24 +4,32 @@ p{
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
-    background-color: coral;
+    color:antiquewhite;
+
 }
 body{
-    background-color: aquamarine;
+    background-color: #315D63;
 }
 input{display: block;}
 h1{
     font-family: georgia;
     font-style: italic;
     font-weight: bold;
+    color:antiquewhite;
 }
 h2,h3{
     font-family: 'Courier New', Courier, monospace;
     font-weight: bold;
-    background-color: gold;
+    color:antiquewhite;
+    
 }
 .col-form-label{
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
-    background-color:skyblue;
+    background-color:#09282D;
+    color:antiquewhite;
+}
+.btn-primary{
+    background-color: aquamarine;
+    color:black;
 }
