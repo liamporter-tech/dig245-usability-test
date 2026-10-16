@@ -12,7 +12,7 @@ myForm,addEventListener("submit", (event)=>{
     let q9= Number(this.q9.value);
     let q10= Number(this.q10.value);
     q1-=1;
-    q3-=1
+    q3-=1;
     q5-=1;
     q7-=1;
     q9-=1;
@@ -25,5 +25,5 @@ myForm,addEventListener("submit", (event)=>{
     
     let answer=(q1 + q2 +q3 +q4 +q5 +q6 +q7+q8+q9+q10)*2.5;
     this.answer.value=answer;
-    console.log(q1);
+    console.log(answer);
 })
